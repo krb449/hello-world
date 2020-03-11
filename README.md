@@ -1,2 +1,2 @@
 # hello-world
-Android hello-world application
+Android default hello-world application 
